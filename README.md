@@ -73,7 +73,7 @@ A complex full-stack auction platform built with performance and real-time updat
 ## 🌐 Connect With Me
 
 - GitHub: https://github.com/badrulhusain
-- (Add LinkedIn if you have)
+- https://www.linkedin.com/in/badrul-husain-459732348
 
 ---
 
