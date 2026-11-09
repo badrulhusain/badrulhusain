@@ -1,82 +1,80 @@
-# 👋 Hi, I'm Badrul Husain
+<div align="center">
 
-🚀 Backend-focused MERN Stack Developer  
-💡 Interested in scalable systems, real-time apps, and AI-driven solutions  
-🧠 Self-taught developer building production-level projects  
+# Hey, I'm Badrul Husain 👋
 
----
+### Backend-focused Full-Stack Developer
 
-## 🛠️ Tech Stack
+**Building thoughtful APIs, real-time experiences, and AI-powered products.**
 
-**Frontend**
-- React.js
-- Tailwind CSS
-- Chart.js
+[![GitHub](https://img.shields.io/badge/GitHub-badrulhusain-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/badrulhusain)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badrul-husain-459732348)
 
-**Backend**
-- Node.js
-- Express.js
-- NestJS
-- Fastify
-
-**Database & Realtime**
-- MongoDB
-- Supabase (Realtime + Auth)
-
-**Other Tools**
-- JWT Authentication
-- REST APIs
-- Socket.IO
-- Git & GitHub
+</div>
 
 ---
 
-## 🚀 Featured Project: Real-Time Auction System
+### 👨‍💻 A little about me
 
-A complex full-stack auction platform built with performance and real-time updates in mind.
+I'm a developer who enjoys turning challenging ideas into working software—from designing backend APIs to making applications feel instant with real-time updates.
 
-### 🔥 Key Features
+- 🧩 **What I enjoy:** backend architecture, authentication, WebSockets, and problem-solving
+- 🛠️ **How I build:** JavaScript / TypeScript, Node.js, NestJS, React, and Next.js
+- 🤖 **What I'm exploring:** RAG, AI integrations, and AI-assisted development workflows
+- 📚 **What I'm improving:** system design, clean architecture, and scalable services
 
-- 🧑‍💻 User authentication (JWT-based)
-- ⏱️ Live bidding system (real-time updates)
-- 💰 Dynamic price updates
-- 📊 Activity tracking and visualization
-- 🔄 Real-time synchronization using Socket.IO / Supabase
-- ⚡ High-performance APIs using Fastify
-- 🧠 Structured backend using NestJS
+### 🧰 Tech toolbox
 
-### 🧱 Architecture
+<div align="center">
 
-- **Frontend**: React + Tailwind
-- **Backend**: Node.js (Express + Fastify + NestJS hybrid)
-- **Database**: MongoDB
-- **Realtime**: Socket.IO / Supabase
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,react,nextjs,tailwind,mongodb,postgres,supabase,docker,git,github&perline=7)](https://skillicons.dev)
 
-### 📌 Key Learning Highlights
+</div>
 
-- Designing real-time systems
-- Handling concurrent user actions (bidding)
-- Optimizing backend performance
-- Structuring scalable APIs
-- Authentication and secure data handling
+**Backend:** Node.js · NestJS · Express.js · Fastify · REST APIs · JWT  
+**Frontend:** Next.js · React · Tailwind CSS · Chart.js  
+**Data & realtime:** MongoDB · PostgreSQL · Supabase · Socket.IO  
+**Tools:** Git · GitHub · Docker
+
+### 🚀 Things I've been building
+
+**⚡ Real-Time Auction Platform**  
+A real-time bidding experience with live updates, authenticated sessions, and a structured backend.  
+`NestJS` `WebSockets` `Socket.IO` `JWT`
+
+**📚 DHDC Resource Sharing Platform**  
+A student-focused resource portal with admin controls, resource categories, and a searchable browsing experience.  
+`Next.js` `MongoDB` `Role-Based Access`
+
+**🧑‍💼 EazySeva**  
+A full-stack service platform that has helped me work across frontend, API design, and backend authorization.  
+`Next.js` `NestJS` `JWT`
+
+**🤖 AI-Fatwa RAG (Exploration)**  
+Experimenting with retrieval-augmented generation to connect language models with a curated knowledge base.  
+`Python` `RAG` `Embeddings`
+
+### 🎯 Currently focused on
+
+- Designing cleaner, more maintainable backend architectures
+- Understanding real-time systems beyond the happy path
+- Exploring useful AI integrations and developer tooling
+
+> I enjoy the part of software engineering where an idea becomes a working system: modeling the data, shaping the APIs, handling edge cases, and finally shipping it.
+
+### 📊 GitHub activity
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=badrulhusain&show_icons=true&hide_border=true&theme=transparent)
+
+</div>
 
 ---
 
-## 📈 Current Focus
+<div align="center">
 
-- Improving backend architecture skills  
-- Building scalable and real-time applications  
-- Exploring AI integration in web apps  
+**Have a project or an interesting problem? Let's connect.**
 
----
+[GitHub](https://github.com/badrulhusain) · [LinkedIn](https://www.linkedin.com/in/badrul-husain-459732348)
 
-## 🌐 Connect With Me
-
-- GitHub  : https://github.com/badrulhusain
-- Linkedin: https://www.linkedin.com/in/badrul-husain-459732348
-
----
-
-## ⚡ Fun Fact
-
-I focus more on **logic and system design** than just UI — building things that actually work at scale.
+</div>
